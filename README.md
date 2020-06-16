@@ -1,2 +1,2 @@
 # Introduction
-# play with pycharm & github
+# Fundamentals Python
